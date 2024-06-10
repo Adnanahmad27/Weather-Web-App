@@ -48,4 +48,4 @@ The Weather Web Application is a React.js application designed to provide users 
 
 - **Geolocation:** The application does not currently support geolocation to automatically detect the user's location.
 
-- **API Rate Limiting:**The Open Weather API has rate limits on the number of requests.
+- **API Rate Limiting:** The Open Weather API has rate limits on the number of requests.
