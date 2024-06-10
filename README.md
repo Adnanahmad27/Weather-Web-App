@@ -1,6 +1,6 @@
 # Weather Web Application using the Open Weather API
 
-### View Demo:**[click here](https://6623afb6edda6bcc3982e3d1--resonant-daffodil-bbdb0e.netlify.app/).
+### View Demo:[click here](https://6666b403b7dd97889316fd75--starlit-elf-f72a1a.netlify.app/).
 
 ## Overview
 
@@ -8,13 +8,13 @@ The Weather Web Application is a React.js application designed to provide users 
 
 ## Approach
 
-- **User Input:**Users can enter the name of a city.
+- **User Input:** Users can enter the name of a city.
 
-- **API Request:**The application sends a request to the Open Weather API using the provided city name.
+- **API Request:** The application sends a request to the Open Weather API using the provided city name.
 
-- **Data Processing:**The response from the API is processed to extract relevant weather information.
+- **Data Processing:** The response from the API is processed to extract relevant weather information.
 
-- **Display:**The weather information is displayed to the user in a clean and user-friendly interface.
+- **Display:** The weather information is displayed to the user in a clean and user-friendly interface.
 
 ## Features
 
@@ -28,13 +28,13 @@ The Weather Web Application is a React.js application designed to provide users 
 
 ## Technologies
 
-- **ReactJS:**A JavaScript library for building user interfaces.
+- **ReactJS:** A JavaScript library for building user interfaces.
 
 - **Open Weather API:** A third-party API providing weather data.
 
-- **Axios:**A promise-based HTTP client for making API requests.
+- **Axios:** A promise-based HTTP client for making API requests.
 
-- **CSS Modules:**For styling components locally and modularly.
+- **CSS Modules:** For styling components locally and modularly.
 
 ## Dependencies
 
@@ -44,7 +44,7 @@ The Weather Web Application is a React.js application designed to provide users 
 
 ## Limitations
 
-- **Error Handling:**error handling is basic. More comprehensive error handling could be added.
+- **Error Handling:** Error handling is basic. More comprehensive error handling could be added.
 
 - **Geolocation:** The application does not currently support geolocation to automatically detect the user's location.
 
